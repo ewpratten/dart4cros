@@ -9,7 +9,7 @@ Next, enter a shell by pressing `CTRL + ALT + T` then type `shell`
 
 ## Installation
 Just paste the following line into the terminal:<br>
-`curl "link" | bash`<br>
+`wget -q -O - link | bash`<br>
 Enjoy all the dart tools like `dartfmt` and `pub` on a chromebook without a package manager or chrooted environment.
 
 ## Installation with chromebrew installed
